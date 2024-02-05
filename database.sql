@@ -10,5 +10,7 @@ CREATE TABLE `users` (
 	`dob` DATE
 );
 
+/*
 SELECT * FROM `users`;
 TRUNCATE `users`;
+*/
