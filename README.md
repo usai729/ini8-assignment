@@ -19,5 +19,5 @@ PASSWORD= "rootmysql@1#" <br>
 Steps to get the API working<br>
 Step 1: Install Node.js <br>
 Step 2: Run the following command `npm i express mysql nodemon dotenv bcrypt` to install the packages <br>
-Step 3: Create a .env file with about contents <br>
+Step 3: Create a <i>.env</i> file with about contents <br>
 Step 4: Run command `nodemon` <br>
